@@ -1,0 +1,7 @@
+jupyter-book
+matplotlib
+numpy
+
+jupyterlab
+jupyterlab-lsp
+python-lsp-server[all]
